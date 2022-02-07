@@ -6,7 +6,7 @@ I love object-oriented programming in general, and have recently come to love Sw
 
 I'm currently looking for software development work based in either Germany or Canada, so if you have a lead or are interested in hiring me, please reach out !
 
-My main project on GitHub is [Aural Player](https://github.com/maculateConception/aural-player). I will aim to keep making this awesome app more awesome over time.
+My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). I will aim to keep making this awesome app more awesome over time.
 
 If you are able to and interested in providing localization help, I could definitely use collaborators for languages such as German, Spanish, French, Italian, Chinese, and Japanese.
 

@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello ! 👋
+
+I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services), and recent experience in Swift programming for native iOS / macOS apps.
+
+I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, syntactic sugar, conciseness, and expressiveness.
+
+I'm currently looking for software development work based in either Germany or Canada, so if you have a lead or are interested in hiring me, please reach out !
+
+My main project on GitHub is [Aural Player](https://github.com/maculateConception/aural-player). I will aim to keep making this awesome app more awesome over time.
+
+If you are able to and interested in providing localization help, I could definitely use collaborators for languages such as German, Spanish, French, Italian, Chinese, and Japanese.
 
 <!--
 **maculateConception/maculateConception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

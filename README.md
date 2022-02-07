@@ -2,7 +2,7 @@
 
 I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services), and recent experience in Swift programming for native iOS / macOS apps.
 
-I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, syntactic sugar, conciseness, and expressiveness.
+I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, syntactic sugar, and expressiveness.
 
 I'm currently looking for software development work based in either Germany or Canada, so if you have a lead or are interested in hiring me, please reach out !
 

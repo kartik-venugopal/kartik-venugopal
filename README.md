@@ -4,6 +4,8 @@ I'm Kartik Venugopal, a passionate software developer with a strong background i
 
 I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, syntactic sugar, and expressiveness.
 
+I am keenly interested in microservices, cloud native computing, Ruby on Rails, and React / Node.js. I love to learn new languages / stacks in general.
+
 I'm currently looking for software development work based in either Germany or Canada, so if you have a lead or are interested in hiring me, please reach out !
 
 My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). I will aim to keep making this awesome app more awesome over time.

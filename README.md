@@ -4,16 +4,14 @@ I'm Kartik Venugopal, a passionate software developer with a strong background i
 
 #### My interests ####
 
-I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, extensibility, syntactic sugar, and concise expressiveness.
+I love object-oriented / functional programming and I love to learn new languages / stacks in general. I have recently come to love Swift's multi-paradigm power, extensibility, syntactic sugar, and concise expressiveness.
 
-Some of my interests include:
+Some of my other interests include:
 - Microservices
 - Cloud-native computing
 - Mobile computing (especially with Swift for iOS)
 - Ruby on Rails
 - React / Node.js, and other JavaScript-related technologies. 
-
-... and I love to learn new languages / stacks in general. I will definitely also continue to do more Swift programming on the side.
 
 #### Learning ####
 

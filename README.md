@@ -2,7 +2,7 @@
 
 I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services) and the Spring framework, with recent experience in Swift programming for native iOS / macOS apps.
 
-#### My interests ####
+### My interests ###
 
 I love object-oriented / functional programming and I love to learn new languages / stacks in general. I have recently come to love Swift's multi-paradigm power, extensibility, syntactic sugar, and concise expressiveness.
 
@@ -13,7 +13,7 @@ Some of my other interests include:
 - Ruby on Rails
 - React / Node.js, and other JavaScript-related technologies. 
 
-#### Learning ####
+### Learning ###
 
 Though I am already familiar with Spring, I have not used Spring Boot so I am currently learning about it by developing a Java web app that implements a microservices architecture using the following technology stack:
 
@@ -24,13 +24,13 @@ Though I am already familiar with Spring, I have not used Spring Boot so I am cu
 - Spring Web for ReSTful APIs
 - React.js / Thymeleaf (front end)
 
-#### Open to work ####
+### Open to work ###
 
 I'm currently looking for software development work based in Germany (open to other regions), so if you have a lead or are interested in hiring me, please reach out ! My resume / work history can be found on my LinkedIn page: https://www.linkedin.com/in/kven/.
 
 **Contact - The best way to reach me is by email: [kartikv2017@gmail.com](mailto:kartikv2017@gmail.com).**
 
-#### Aural Player ####
+### Aural Player ###
 
 My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). It has come a long way since its inception in 2016 and is reportedly liked and enjoyed by many :) I will aim to keep making this awesome app more awesome over time.
 

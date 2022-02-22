@@ -1,14 +1,40 @@
 ### Hello ! 👋
 
-I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services), and recent experience in Swift programming for native iOS / macOS apps.
+I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services) and the Spring framework, with recent experience in Swift programming for native iOS / macOS apps.
+
+#### My interests ####
 
 I love object-oriented programming in general, and have recently come to love Swift's multi-paradigm power, extensibility, syntactic sugar, and concise expressiveness.
 
-I am keenly interested in microservices, cloud native computing, Ruby on Rails, and React / Node.js. I love to learn new languages / stacks in general.
+Some of my interests include:
+- Microservices
+- Cloud-native computing
+- Mobile computing (especially with Swift for iOS)
+- Ruby on Rails
+- React / Node.js, and other JavaScript-related technologies. 
 
-I'm currently looking for software development work based in either Germany or Canada (open to other regions), so if you have a lead or are interested in hiring me, please reach out ! My LinkedIn page is: https://www.linkedin.com/in/kven/.
+... and I love to learn new languages / stacks in general. I will definitely also continue to do more Swift programming on the side.
 
-My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). I will aim to keep making this awesome app more awesome over time.
+#### Learning ####
+
+Though I am already familiar with Spring, I have not used Spring Boot so I am currently learning about it by developing a Java web app that implements a microservices architecture using the following technology stack:
+
+- JDK 17
+- Spring Boot 2.6.x
+- PostgreSQL 14.x
+- Hibernate (ORM) + Spring Data for data access
+- Spring Web for ReSTful APIs
+- React.js / Thymeleaf (front end)
+
+#### Open to work ####
+
+I'm currently looking for software development work based in Germany (open to other regions), so if you have a lead or are interested in hiring me, please reach out ! My resume / work history can be found on my LinkedIn page: https://www.linkedin.com/in/kven/.
+
+**Contact - The best way to reach me is by email: [kartikv2017@gmail.com](mailto:kartikv2017@gmail.com).**
+
+#### Aural Player ####
+
+My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). It has come a long way since its inception in 2016 and is reportedly liked and enjoyed by many :) I will aim to keep making this awesome app more awesome over time.
 
 If you are able to and interested in providing localization help, I could definitely use collaborators for languages such as German, Spanish, French, Italian, Chinese, and Japanese.
 

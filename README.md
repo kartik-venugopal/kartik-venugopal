@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming (web services) and the Spring framework, with recent experience in Swift programming for native iOS / macOS apps.
+I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming, with recent experience in Swift programming for native iOS / macOS apps.
 
 ### My interests ###
 

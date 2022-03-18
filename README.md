@@ -24,12 +24,6 @@ Though I am already familiar with Spring, I have not used Spring Boot so I am cu
 - Spring Web for ReSTful APIs
 - React.js / Thymeleaf (front end)
 
-### Open to work ###
-
-I'm currently looking for software development work based in Germany (open to other regions), so if you have a lead or are interested in hiring me, please reach out ! My resume / work history can be found on my LinkedIn page: https://www.linkedin.com/in/kven/.
-
-**Contact - The best way to reach me is by email: [kartikv2017@gmail.com](mailto:kartikv2017@gmail.com).**
-
 ### Aural Player ###
 
 My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). It has come a long way since its inception in 2016 and is reportedly liked and enjoyed by many :) I will aim to keep making this awesome app more awesome over time.

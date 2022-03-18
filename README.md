@@ -13,17 +13,6 @@ Some of my other interests include:
 - Ruby on Rails
 - React / Node.js, and other JavaScript-related technologies. 
 
-### Learning ###
-
-Though I am already familiar with Spring, I have not used Spring Boot so I am currently learning about it by developing a Java web app that implements a microservices architecture using the following technology stack:
-
-- JDK 17
-- Spring Boot 2.6.x
-- PostgreSQL 14.x
-- Hibernate (ORM) + Spring Data for data access
-- Spring Web for ReSTful APIs
-- React.js / Thymeleaf (front end)
-
 ### Aural Player ###
 
 My main project on GitHub is [Aural Player](https://github.com/kartik-venugopal/aural-player). It has come a long way since its inception in 2016 and is reportedly liked and enjoyed by many :) I will aim to keep making this awesome app more awesome over time.

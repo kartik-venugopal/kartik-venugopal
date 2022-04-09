@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-I'm Kartik Venugopal, a passionate software developer with a strong background in back-end Java programming and a recently acquired obsession with Swift :)
+I'm Kartik Venugopal, a software developer with a background in back-end Java programming and a recently acquired obsession with Swift :)
 
 ### My interests ###
 

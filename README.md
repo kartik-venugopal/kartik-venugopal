@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-I'm a software developer with a background in back-end Java programming and a recently acquired obsession with Swift.
+I'm a software developer with a background in back-end Java programming and native app development for macOS / iOS using Swift.
 
 ### Aural Player ###
 
